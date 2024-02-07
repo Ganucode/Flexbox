@@ -1,0 +1,18 @@
+.flex-container{
+    display: flex;
+    background-color: aquamarine;
+    flex-wrap:wrap;
+    /* flex-direction:row;
+    flex-flow: row wrap;
+    justify-content:space-between; */
+    align-items: baseline;
+}
+.flex{
+    margin: 3%;
+    padding: 4%;
+    background-color: rgb(184, 56, 56);
+    font-size: 100px;
+    
+    
+
+}
